@@ -41,11 +41,6 @@ With its stylish and simple interface design and user-friendly interface, a very
 > - *Pygame*
 > - *Json*
 
-Downloading files from **[HERE](https://github.com/destrochloridium/REVERSE-LANE/archive/refs/heads/main.zip)**, run the
-> ***main.py***
-
-and **ENJOY**!
-
 
 ## Gameplay
 - **<kbd>&larr;</kbd>** / **<kbd>&rarr;</kbd>** / **<kbd>a</kbd>** / **<kbd>d</kbd>** *for* **Going to Left & Right**
